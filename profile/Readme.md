@@ -12,3 +12,4 @@
 - Maya Peretz
 - Joseph Kettles
 - Guy Cameron 
+- Patrick Nwagulu
